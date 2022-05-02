@@ -5,3 +5,5 @@ userCity: WrocBaw
 
 userName: Jarek
 userCity: Zgorzelec
+userName: John
+userCity: Żółć Sądecka
