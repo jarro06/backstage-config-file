@@ -2,3 +2,6 @@
 
 userName: Jarek
 userCity: WrocBaw
+
+userName: Jarek
+userCity: Zgorzelec
