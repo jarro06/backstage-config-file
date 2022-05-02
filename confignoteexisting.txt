@@ -2,3 +2,5 @@ userName: John
 userCity: Zgorzelec
 userName: Łukasz
 userCity: Czego szukasz
+userName: JArek
+userCity: 3213
