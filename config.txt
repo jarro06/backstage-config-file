@@ -7,3 +7,5 @@ userName: Jarek
 userCity: Zgorzelec
 userName: John
 userCity: Żółć Sądecka
+userName=
+userCity=
