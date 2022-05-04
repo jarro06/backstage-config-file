@@ -11,3 +11,5 @@ userName=
 userCity=
 userName=JArek
 userCity=Wrocław
+userName=Jarek
+userCity=Wrocław
