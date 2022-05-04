@@ -9,3 +9,5 @@ userName: John
 userCity: Żółć Sądecka
 userName=
 userCity=
+userName=JArek
+userCity=Wrocław
