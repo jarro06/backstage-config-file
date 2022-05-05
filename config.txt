@@ -1,2 +1,6 @@
-userName=fdsaf
-userCity=ewqewq
+fisrtProperty=Some property 1 1 1 1
+secondProperty=Another proiperty
+userName=Adam John Smith
+thirdProperty= x d d f 
+userCity=Jamaica
+anotherone=aadfa dsf
