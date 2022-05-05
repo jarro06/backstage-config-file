@@ -1,6 +1,6 @@
 fisrtProperty=Some property 1 1 1 1
 secondProperty=Another proiperty
-userName=Jarek C
+userName=Adam Małysz
 thirdProperty=x d d f
-userCity=Wrocław Dolnośląskie
+userCity=Wisła
 anotherone=aadfa dsf
