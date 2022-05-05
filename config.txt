@@ -1,3 +1,4 @@
 firstProperty=Some value 123
-userName=Jarek
-userCity=Wrocław
+userName
+userName=zzz z  z
+userCity=ccccc ccc
