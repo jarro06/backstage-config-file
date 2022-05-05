@@ -1,2 +1,2 @@
-userName=Adam
-userCity=Morris
+userName=Zdzisiu
+userCity=Nowak
