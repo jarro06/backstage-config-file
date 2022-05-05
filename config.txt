@@ -1,4 +1,3 @@
 firstProperty=Some value 123
-userCity
 userName=zzz
 userCity=sdfsdf
