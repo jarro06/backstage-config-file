@@ -1,15 +1,3 @@
-
-
-userName: Jarek
-userCity: WrocBaw
-
-userName: Jarek
-userCity: Zgorzelec
-userName: John
-userCity: Żółć Sądecka
-userName=
-userCity=
-userName=JArek
-userCity=Wrocław
-userName=Jarek
-userCity=Wrocław
+firstProperty=Some value 123
+userName=Adam Kowalski
+secondProperty=AnotherValue
