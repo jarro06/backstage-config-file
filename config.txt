@@ -1,5 +1,0 @@
-firstProperty=Some value 123
-userName
-userName
-userName=Adam
-userCity=Morris
