@@ -1,6 +1,8 @@
 fisrtProperty=Some property 1 1 1 1
 secondProperty=Another proiperty
-userName=Jarek
+userName=BDO Team
 thirdProperty=x d d f
-userCity=Wrocław
+userCity=München
 anotherone=aadfa dsf
+capitol=true
+language=Java
