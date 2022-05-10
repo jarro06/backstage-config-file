@@ -1,8 +1,8 @@
-fisrt_Property=Some property 1 1 1 1
+fisrt_Property=Nowy zmieniony
 second_Property=Another proiperty
-user_name=Jarek
-third_Property=x d d f
-user_city=GGG
+user_name=BDO Team
+third_Property=Ten też
+user_city=Wrocław
 anotherone=aadfa dsf
 capitol=true
-language=C++
+language=Go
