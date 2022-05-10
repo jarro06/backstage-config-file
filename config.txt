@@ -1,4 +1,4 @@
 user_name=Jarek
-user_city=Łódź Kaliska
+user_city=Zgorzelec
 capitol=true
 language=Java
