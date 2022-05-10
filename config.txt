@@ -1,4 +1,4 @@
-user_name=Jarek
-user_city=Zgorzelec
+user_name=BDO Team
+user_city=Wrocław
 capitol=true
-language=Java
+language=Go
