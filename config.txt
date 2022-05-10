@@ -1,4 +1,4 @@
-user_name=Jarek
-user_city=Wrocław
+user_name=31231
+user_city=2213213
 capitol=true
 language=Java
