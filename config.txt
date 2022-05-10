@@ -1,8 +1,4 @@
-fisrt_Property=Some property 1 1 1 1
-second_Property=Another proiperty
-user_name=BDO Team
-third_Property=x d d f
+user_name=rhino
 user_city=Łódź
-anotherone=aadfa dsf
 capitol=true
-language=Go
+language=C++
