@@ -1,8 +1,6 @@
-fisrt_Property=Nowy zmieniony
-second_Property=Another proiperty
-user_name=BDO Team
-third_Property=Ten też
+user_name=Tomek
 user_city=Wrocław
-anotherone=aadfa dsf
-capitol=true
-language=Go
+user_capitol=true
+user_language=Java
+github_url=https://localhost:8080
+github_token=token
