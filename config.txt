@@ -1,6 +1,6 @@
-user_name=Tomek
-user_city=Wrocław
-user_capitol=true
-user_language=Java
-github_url=https://localhost:8080
-github_token=token
+user_name: Tomek
+user_city: Wrocław
+user_capitol: true
+user_language: Java
+github_url: https://localhost:8080
+github_token: token
