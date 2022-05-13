@@ -1,8 +1,8 @@
 user:
-  name: Tomek
-  city: Wrocław
-  capitol: true
-  language: Java
+  name: "2431324"
+  city: "4234231413"
+  capitol: false
+  language: Go
 github:
   url: https://localhost:8080
   token: token
