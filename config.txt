@@ -7,12 +7,12 @@ github:
   url: https://localhost:8080
   token: token
 gheOrganisation:
-  organisationName: My new organisation2
-  newOrga: false
+  organisationName: My new organisation3
+  newOrga: true
 billingGeneralInformation:
   deploymentLocation: My own server
-  billingAccount: Account name2
+  billingAccount: myAccount
   teamName: BDO Team
-  serviceAdminEmail: admin@test.com
+  serviceAdminEmail: admin2@test.com
   githubUsername: jaroslaw.ciarkowski
   accessToken: new_access_token
