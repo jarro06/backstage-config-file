@@ -1,8 +1,18 @@
 user:
-  name: "2431324"
-  city: "4234231413"
-  capitol: false
-  language: Go
+  name: Tomek
+  city: Wrocław
+  capitol: true
+  language: Java
 github:
   url: https://localhost:8080
   token: token
+gheOrganisation:
+  organisationName: My new organisation
+  newOrga: true
+billingGeneralInformation:
+  deploymentLocation: My own server
+  billingAccount: Account name
+  teamName: BDO Team
+  serviceAdminEmail: admin@test.com
+  githubUsername: ""
+  accessToken: "213213"
