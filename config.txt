@@ -7,12 +7,22 @@ github:
   url: https://localhost:8080
   token: token
 gheOrganisation:
-  organisationName: My new organisation3
+  organisationName: Test name
   newOrga: true
+projectRepository:
+  repoName: test-repository-name
+  newRepo: false
+jira:
+  projectName: test jira projectName
+  newProject: true
 billingGeneralInformation:
-  deploymentLocation: My own server
-  billingAccount: myAccount
-  teamName: BDO Team
-  serviceAdminEmail: admin2@test.com
-  githubUsername: jaroslaw.ciarkowski
-  accessToken: new_access_token
+  deploymentLocation: EU
+  billingAccount: test-biling-account
+  teamName: test-team-name
+  serviceAdminEmail: test@test.com
+  githubUsername: test-user-name
+  accessToken: asd
+infrastructure:
+  infraProvider: aws
+automationService:
+  automationServer: jenkins
