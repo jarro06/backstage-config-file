@@ -10,7 +10,7 @@ gheOrganisation:
   organisationName: Test name
   newOrga: true
 projectRepository:
-  repoName: test-repository-name
+  repoName: test-repository-name123
   newRepo: false
 billingGeneralInformation:
   deploymentLocation: EU
@@ -23,3 +23,6 @@ infrastructure:
   infraProvider: aws
 automationService:
   automationServer: ghe_action
+jira:
+  projectName: new-jira
+  newProject: true
