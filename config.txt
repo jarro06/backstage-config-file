@@ -23,6 +23,3 @@ infrastructure:
   infraProvider: aws
 automationService:
   automationServer: ghe_action
-jira:
-  projectName: test jira projectName2
-  newProject: true
