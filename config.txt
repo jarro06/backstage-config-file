@@ -12,9 +12,6 @@ gheOrganisation:
 projectRepository:
   repoName: test-repository-name
   newRepo: false
-jira:
-  projectName: test jira projectName2
-  newProject: true
 billingGeneralInformation:
   deploymentLocation: EU
   billingAccount: test-biling-account
