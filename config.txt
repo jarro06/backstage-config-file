@@ -16,8 +16,8 @@ billingGeneralInformation:
   deploymentLocation: EU
   billingAccount: test-biling-account
   teamName: test-team-name234
-  serviceAdminEmail: presentation@test.com
-  githubUsername: Presentation user
+  serviceAdminEmail: test2@test.com
+  githubUsername: test-user-name
   accessToken: asd
 infrastructure:
   infraProvider: aws
