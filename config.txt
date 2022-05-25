@@ -1,8 +1,8 @@
 user:
-  name: Tomek
-  city: Wrocław
+  name: "321321"
+  city: "213213"
   capitol: true
-  language: Java
+  language: go
 github:
   url: https://localhost:8080
   token: token
@@ -25,4 +25,4 @@ automationService:
   automationServer: ghe_action
 jira:
   projectName: new-jira
-  newProject: true
+  newProject: false
