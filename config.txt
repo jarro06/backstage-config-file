@@ -1,8 +1,8 @@
 user:
-  name: "321321"
-  city: "213213"
-  capitol: true
-  language: go
+  name: Basia
+  city: Warszawa
+  capitol: false
+  language: c++
 github:
   url: https://localhost:8080
   token: token
