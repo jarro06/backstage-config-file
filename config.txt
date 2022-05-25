@@ -1,8 +1,8 @@
 user:
-  name: Anna
-  city: Berlin
+  name: cxzcxzcxzc
+  city: ssasd
   capitol: true
-  language: go
+  language: java
 github:
   url: https://localhost:8080
   token: token
@@ -26,3 +26,6 @@ automationService:
 jira:
   projectName: new-jira
   newProject: false
+config:
+  repoUrl: github.com?repo=backstage-config-file&owner=jarro06
+  repoToken: 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
