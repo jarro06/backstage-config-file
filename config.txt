@@ -1,6 +1,6 @@
 user:
-  name: cxzcxzcxzc
-  city: ssasd
+  name: Tomek
+  city: Wrocław
   capitol: true
   language: java
 github:
@@ -14,7 +14,7 @@ projectRepository:
   newRepo: false
 billingGeneralInformation:
   deploymentLocation: EU
-  billingAccount: test-biling-account
+  billingAccount: test-biling-account2
   teamName: test-team-name234
   serviceAdminEmail: test2@test.com
   githubUsername: test-user-name
