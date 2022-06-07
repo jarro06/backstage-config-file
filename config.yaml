@@ -1,5 +1,5 @@
 user:
-  name: Tomek
-  city: Wrocław
-  capitol: true
-  language: java
+  name: ""
+  city: ""
+  capitol: false
+  language: ""
