@@ -1,5 +1,32 @@
+
 user:
-  name: Adam
-  city: Gdańsk
-  capitol: false
-  language: java
+  name: Jarek
+  city: ""
+  capitol: true
+  language: go
+github:
+  url: https://localhost:8080
+  token: token
+gheOrganisation:
+  organisationName: Test name
+  newOrga: true
+projectRepository:
+  repoName: test-repository-name123
+  newRepo: false
+billingGeneralInformation:
+  deploymentLocation: EU
+  billingAccount: test-biling-account
+  teamName: test-team-name234
+  serviceAdminEmail: test2@test.com
+  githubUsername: test-user-name
+  accessToken: asd
+infrastructure:
+  infraProvider: aws
+automationService:
+  automationServer: ghe_action
+jira:
+  projectName: new-jira
+  newProject: false
+config:
+  repoUrl: github.com?repo=backstage-config-file&owner=jarro06
+  repoToken: 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
