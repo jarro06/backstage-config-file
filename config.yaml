@@ -1,8 +1,8 @@
 user:
-  name: Adan
-  city: Wric kaw
-  capitol: true
-  language: go
+  name: Filip
+  city: Oborniki
+  capitol: false
+  language: java
 github:
   url: https://localhost:8080
   token: token
