@@ -1,5 +1,5 @@
 user:
-  name: Adam
-  city: Zielona góra
-  capitol: false
-  language: c++
+  name: Tomek
+  city: Wrocław
+  capitol: true
+  language: java
