@@ -1,8 +1,8 @@
 user:
-  name: Filip
-  city: Oborniki
+  name: Żaneta
+  city: Zółć Łódzka
   capitol: false
-  language: java
+  language: go
 github:
   url: https://localhost:8080
   token: token
