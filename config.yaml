@@ -23,8 +23,60 @@ infrastructure:
   infraProvider: aws
 automationService:
   automationServer: ghe_action
+  jenkinsOrGithubActions: ""
 jira:
   projectName: new-jira
   newProject: false
 config:
   repoUrl: github.com?repo=backstage-config-file&owner=jarro06
+generalInformation:
+  serviceAdminEmail: adminEmail@email.
+  gheUsername: test-user-name
+  adpAccessToken: adpACCESS
+  billingAccount: bill acount
+  billingTeamName: bill team
+  gheToken: asd
+projectInformation:
+  projectName: "321321"
+  projectShortName: "22"
+  jUnit: true
+  soapUi: false
+cloudService:
+  awsOrAzure: eks
+  deploymentLocation: aws_ew3
+  acpOrCRP: acp
+  displayName: AWS CLUSTER
+  version: 2.4.5x
+  productionCluster: true
+  subscriptionId: ""
+  enableStorageProvisioning: true
+  ingressSubnetName: ""
+  clusterSubnetName: ""
+  adAdminGroupName: ""
+  adViewerGroupName: ""
+  adEditorGroupName: ""
+  privateDnsZone: ""
+  awsAccountId: account_id
+  instanceType: dev
+  r53HostedZoneDomainName: "32323"
+  sshWorkerKey: sshkey
+  availabilityZones: "3"
+  az1HarmonizedSubnetId: az1h
+  az1WorkerSubnetId: "21321"
+  az1PodSubnetId: "3213"
+  az2HarmonizedSubnetId: az2h
+  az2WorkerSubnetId: az2s
+  az2PodSubnetId: az2p
+  az3HarmonizedSubnetId: ""
+  az3WorkerSubnetId: ""
+  az3PodSubnetId: ""
+  workerSecurityGroupIds: ""
+  ingressSecurityGroupIds: ""
+  customDefinedAutomationAdminRole: "32132321321313213213"
+gheRepositories:
+  projectSourceCode: ""
+  toolchain: ""
+  soapUI: ""
+jmp:
+  projectName: ""
+  projectShortName: ""
