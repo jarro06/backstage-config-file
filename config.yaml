@@ -35,27 +35,27 @@ generalInformation:
   adpAccessToken: adpACCESS
   billingAccount: bill acount
   billingTeamName: bill team
-  gheToken: asd
+  gheToken: ""
 projectInformation:
   projectName: "321321"
   projectShortName: "22"
   jUnit: true
   soapUi: false
 cloudService:
-  awsOrAzure: eks
-  deploymentLocation: aws_ew3
+  awsOrAzure: aks
+  deploymentLocation: azure_gwc1
   acpOrCRP: acp
-  displayName: AWS CLUSTER
+  displayName: AZURE CLUSTER
   version: 2.4.5x
   productionCluster: true
-  subscriptionId: ""
+  subscriptionId: "321321"
   enableStorageProvisioning: true
-  ingressSubnetName: ""
-  clusterSubnetName: ""
-  adAdminGroupName: ""
-  adViewerGroupName: ""
-  adEditorGroupName: ""
-  privateDnsZone: ""
+  ingressSubnetName: ingr
+  clusterSubnetName: clu
+  adAdminGroupName: admin
+  adViewerGroupName: viewer
+  adEditorGroupName: ediro
+  privateDnsZone: dns
   awsAccountId: account_id
   instanceType: dev
   r53HostedZoneDomainName: "32323"
