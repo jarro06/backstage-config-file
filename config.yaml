@@ -1,78 +1,49 @@
-user:
-  name: Żaneta
-  city: Zółć Łódzka
-  capitol: false
-  language: go
-github:
-  url: https://localhost:8080
-  token: token
-gheOrganisation:
-  organisationName: Test name
-  newOrga: true
-projectRepository:
-  repoName: test-repository-name123
-  newRepo: false
-billingGeneralInformation:
-  deploymentLocation: EU
-  billingAccount: test-biling-account
-  teamName: test-team-name234
-  serviceAdminEmail: test2@test.com
-  githubUsername: test-user-name
-  accessToken: asd
-infrastructure:
-  infraProvider: aws
-automationService:
-  automationServer: ghe_action
-  jenkinsOrGithubActions: ""
-jira:
-  projectName: new-jira
-  newProject: false
-config:
-  repoUrl: github.com?repo=backstage-config-file&owner=jarro06
 generalInformation:
-  serviceAdminEmail: adminEmail@email.
-  gheUsername: test-user-name
-  adpAccessToken: adpACCESS
-  billingAccount: bill acount
-  billingTeamName: bill team
-  gheToken: ""
+  serviceAdminEmail: ""
+  gheUsername: jarro06
+  billingAccount: ""
+  billingTeamName: ""
+  gheToken: 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
+  adpAccessToken: ""
 projectInformation:
-  projectName: "321321"
-  projectShortName: "22"
-  jUnit: true
+  projectName: nowy_projekt
+  projectShortName: nowy_projekt
+  jUnit: false
   soapUi: false
 cloudService:
-  awsOrAzure: aks
-  deploymentLocation: azure_gwc1
-  acpOrCRP: acp
-  displayName: AZURE CLUSTER
-  version: 2.4.5x
-  productionCluster: true
-  subscriptionId: "321321"
+  awsOrAzure: ""
+  deploymentLocation: ""
+  acpOrCRP: ""
+  displayName: ""
+  version: ""
+  productionCluster: false
+  subscriptionId: ""
   enableStorageProvisioning: true
-  ingressSubnetName: ingr
-  clusterSubnetName: clu
-  adAdminGroupName: admin
-  adViewerGroupName: viewer
-  adEditorGroupName: ediro
-  privateDnsZone: dns
-  awsAccountId: account_id
-  instanceType: dev
-  r53HostedZoneDomainName: "32323"
-  sshWorkerKey: sshkey
-  availabilityZones: "3"
-  az1HarmonizedSubnetId: az1h
-  az1WorkerSubnetId: "21321"
-  az1PodSubnetId: "3213"
-  az2HarmonizedSubnetId: az2h
-  az2WorkerSubnetId: az2s
-  az2PodSubnetId: az2p
+  ingressSubnetName: ""
+  clusterSubnetName: ""
+  adAdminGroupName: ""
+  adViewerGroupName: ""
+  adEditorGroupName: ""
+  privateDnsZone: ""
+  awsAccountId: ""
+  instanceType: ""
+  r53HostedZoneDomainName: ""
+  sshWorkerKey: ""
+  availabilityZones: ""
+  az1HarmonizedSubnetId: ""
+  az1WorkerSubnetId: ""
+  az1PodSubnetId: ""
+  az2HarmonizedSubnetId: ""
+  az2WorkerSubnetId: ""
+  az2PodSubnetId: ""
   az3HarmonizedSubnetId: ""
   az3WorkerSubnetId: ""
   az3PodSubnetId: ""
   workerSecurityGroupIds: ""
   ingressSecurityGroupIds: ""
-  customDefinedAutomationAdminRole: "32132321321313213213"
+  customDefinedAutomationAdminRole: ""
+automationService:
+  jenkinsOrGithubActions: ""
 gheRepositories:
   projectSourceCode: ""
   toolchain: ""
