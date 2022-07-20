@@ -1,30 +1,29 @@
 generalInformation:
-  serviceAdminEmail: ""
+  serviceAdminEmail: adminEmail@email
   gheUsername: jarro06
-  billingAccount: ""
-  billingTeamName: ""
-  gheToken: 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
-  adpAccessToken: ""
+  adpAccessToken: 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
+  billingAccount: billaccount
+  billingTeamName: "3213213"
+  gheToken: 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
 projectInformation:
-  projectName: nowy_projekt
+  projectName: Mój super nowy projekt
   projectShortName: nowy_projekt
-  jUnit: false
-  soapUi: false
+  buildType: gradle
 cloudService:
-  awsOrAzure: ""
-  deploymentLocation: ""
-  acpOrCRP: ""
-  displayName: ""
-  version: ""
-  productionCluster: false
-  subscriptionId: ""
+  awsOrAzure: aks
+  deploymentLocation: azure_we1
+  acpOrCRP: crp
+  displayName: AWS CLUSTER
+  version: "3213213"
+  productionCluster: true
+  subscriptionId: "321321"
   enableStorageProvisioning: true
-  ingressSubnetName: ""
-  clusterSubnetName: ""
-  adAdminGroupName: ""
-  adViewerGroupName: ""
-  adEditorGroupName: ""
-  privateDnsZone: ""
+  ingressSubnetName: ingr
+  clusterSubnetName: clu
+  adAdminGroupName: admin
+  adViewerGroupName: viewer
+  adEditorGroupName: ediro
+  privateDnsZone: dns
   awsAccountId: ""
   instanceType: ""
   r53HostedZoneDomainName: ""
@@ -43,11 +42,7 @@ cloudService:
   ingressSecurityGroupIds: ""
   customDefinedAutomationAdminRole: ""
 automationService:
-  jenkinsOrGithubActions: ""
+  jenkinsOrGithubActions: gheactions
 gheRepositories:
-  projectSourceCode: ""
-  toolchain: ""
-  soapUI: ""
-jmp:
-  projectName: ""
-  projectShortName: ""
+  projectSourceCode: super_projekt1235
+  toolchain: "432432"
