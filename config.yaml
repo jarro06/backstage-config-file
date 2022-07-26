@@ -1,10 +1,10 @@
 generalInformation:
-  serviceAdminEmail: adminEmail@email
-  gheUsername: jarro06
-  adpAccessToken: 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
-  billingAccount: billaccount
-  billingTeamName: "3213213"
-  gheToken: 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
+  serviceAdminEmail: nowymail
+  gheUsername: jarro06234
+  adpAccessToken: token adpiwy
+  billingAccount: nowybilling
+  billingTeamName: nowyteam
+  gheToken: token githubowy
 projectInformation:
   projectName: Mój super nowy projekt
   projectShortName: nowy_projekt
@@ -46,3 +46,5 @@ automationService:
 gheRepositories:
   projectSourceCode: super_projekt1235
   toolchain: "432432"
+gheOrganisation:
+  organisationName: nowaorganizacja
