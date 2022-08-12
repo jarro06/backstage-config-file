@@ -1,0 +1,50 @@
+generalInformation:
+  serviceAdminEmail: adminEmail@email
+  gheUsername: jarro06
+  adpAccessToken: ""
+  billingAccount: billaccount
+  billingTeamName: "3213213"
+  gheToken: ""
+projectInformation:
+  projectName: Mój super nowy projekt
+  projectShortName: nowy_projekt
+  buildType: gradle
+cloudService:
+  awsOrAzure: aks
+  deploymentLocation: azure_we1
+  acpOrCRP: crp
+  displayName: AWS CLUSTER
+  version: "3213213"
+  productionCluster: true
+  subscriptionId: "321321"
+  enableStorageProvisioning: true
+  ingressSubnetName: ingr
+  clusterSubnetName: clu
+  adAdminGroupName: admin
+  adViewerGroupName: viewer
+  adEditorGroupName: ediro
+  privateDnsZone: dns
+  awsAccountId: ""
+  instanceType: ""
+  r53HostedZoneDomainName: ""
+  sshWorkerKey: ""
+  availabilityZones: ""
+  az1HarmonizedSubnetId: ""
+  az1WorkerSubnetId: ""
+  az1PodSubnetId: ""
+  az2HarmonizedSubnetId: ""
+  az2WorkerSubnetId: ""
+  az2PodSubnetId: ""
+  az3HarmonizedSubnetId: ""
+  az3WorkerSubnetId: ""
+  az3PodSubnetId: ""
+  workerSecurityGroupIds: ""
+  ingressSecurityGroupIds: ""
+  customDefinedAutomationAdminRole: ""
+automationService:
+  jenkinsOrGithubActions: gheactions
+gheRepositories:
+  projectSourceCode: super_projekt1235
+  toolchain: "432432"
+gheOrganization:
+  organizationName: test
