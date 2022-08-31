@@ -1,29 +1,29 @@
 generalInformation:
-  serviceAdminEmail: adminEmail@email
+  serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  adpAccessToken: ""
-  billingAccount: billaccount
-  billingTeamName: "3213213"
+  billingAccount: dsadsa
+  billingTeamName: dsadsa
   gheToken: ""
+  adpAccessToken: ""
 projectInformation:
-  projectName: Mój super nowy projekt
-  projectShortName: nowy_projekt
+  projectName: My super project
+  projectShortName: project_saved_in_config
   buildType: gradle
 cloudService:
-  awsOrAzure: aks
-  deploymentLocation: azure_we1
-  acpOrCRP: crp
-  displayName: AWS CLUSTER
-  version: "3213213"
-  productionCluster: true
-  subscriptionId: "321321"
+  awsOrAzure: ""
+  deploymentLocation: ""
+  acpOrCRP: ""
+  displayName: ""
+  version: ""
+  productionCluster: false
+  subscriptionId: ""
   enableStorageProvisioning: true
-  ingressSubnetName: ingr
-  clusterSubnetName: clu
-  adAdminGroupName: admin
-  adViewerGroupName: viewer
-  adEditorGroupName: ediro
-  privateDnsZone: dns
+  ingressSubnetName: ""
+  clusterSubnetName: ""
+  adAdminGroupName: ""
+  adViewerGroupName: ""
+  adEditorGroupName: ""
+  privateDnsZone: ""
   awsAccountId: ""
   instanceType: ""
   r53HostedZoneDomainName: ""
@@ -43,8 +43,8 @@ cloudService:
   customDefinedAutomationAdminRole: ""
 automationService:
   jenkinsOrGithubActions: gheactions
-gheRepositories:
-  projectSourceCode: super_projekt1235
-  toolchain: "432432"
-gheOrganization:
-  organizationName: test
+gheOrganisation:
+  organisationName: jarro06
+  isNew: false
+testingTools:
+  sonarQube: false
