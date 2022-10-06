@@ -1,19 +1,22 @@
 generalInformation:
   serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  billingAccount: dsadsa
-  billingTeamName: dsadsa
+  billingAccount: bill account
+  billingTeamName: team name
   gheToken: ""
   adpAccessToken: ""
 projectInformation:
   projectName: My super project
-  projectShortName: project_saved_in_config
-  buildType: gradle
+  projectShortName: project_saved_in_config2134
+  buildType: maven
+  testInstance: true
+  preprodInstance: true
+  uatInstance: false
 cloudService:
-  awsOrAzure: ""
-  deploymentLocation: ""
-  acpOrCRP: ""
-  displayName: ""
+  awsOrAzure: eks
+  deploymentLocation: aws_ew3
+  acpOrCRP: acp
+  displayName: awsowp
   version: ""
   productionCluster: false
   subscriptionId: ""
@@ -24,9 +27,9 @@ cloudService:
   adViewerGroupName: ""
   adEditorGroupName: ""
   privateDnsZone: ""
-  awsAccountId: ""
-  instanceType: ""
-  r53HostedZoneDomainName: ""
+  awsAccountId: "3213"
+  instanceType: derter
+  r53HostedZoneDomainName: fdsf
   sshWorkerKey: ""
   availabilityZones: ""
   az1HarmonizedSubnetId: ""
@@ -43,8 +46,9 @@ cloudService:
   customDefinedAutomationAdminRole: ""
 automationService:
   jenkinsOrGithubActions: gheactions
+  jenkinsWebhook: 223466@ere4
 gheOrganisation:
   organisationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: false
+  sonarQube: true
