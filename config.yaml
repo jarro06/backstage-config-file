@@ -7,7 +7,7 @@ generalInformation:
   adpAccessToken: ""
 projectInformation:
   projectName: My super project
-  projectShortName: project_saved_in_config2134
+  projectShortName: project_saved_in_config21343444
   buildType: maven
   testInstance: true
   preprodInstance: true
@@ -52,3 +52,9 @@ gheOrganisation:
   isNew: false
 testingTools:
   sonarQube: true
+jira:
+  projectKey: "213"
+  projectName: new-jira
+  leadUsername: jarro06
+  documentationUrl: ""
+  adminToken: "123456789"
