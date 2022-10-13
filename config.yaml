@@ -1,22 +1,28 @@
 generalInformation:
   serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  billingAccount: bill account
-  billingTeamName: team name
+  billingAccount: "321"
+  billingTeamName: "321"
   gheToken: ""
   adpAccessToken: ""
+jira:
+  adminToken: ""
+  projectKey: ""
+  projectName: ""
+  leadUsername: jarro06
+  documentationUrl: ""
 projectInformation:
-  projectName: My super project
-  projectShortName: project_saved_in_config21343444432543
-  buildType: maven
-  testInstance: true
-  preprodInstance: true
+  projectName: Mój super nowy projekt
+  projectShortName: 1013test
+  buildType: gradle
+  testInstance: false
+  preprodInstance: false
   uatInstance: false
 cloudService:
-  awsOrAzure: eks
-  deploymentLocation: aws_ew3
-  acpOrCRP: acp
-  displayName: awsowp
+  awsOrAzure: ""
+  deploymentLocation: ""
+  acpOrCRP: ""
+  displayName: ""
   version: ""
   productionCluster: false
   subscriptionId: ""
@@ -27,9 +33,9 @@ cloudService:
   adViewerGroupName: ""
   adEditorGroupName: ""
   privateDnsZone: ""
-  awsAccountId: "3213"
-  instanceType: derter
-  r53HostedZoneDomainName: fdsf
+  awsAccountId: ""
+  instanceType: ""
+  r53HostedZoneDomainName: ""
   sshWorkerKey: ""
   availabilityZones: ""
   az1HarmonizedSubnetId: ""
@@ -46,15 +52,9 @@ cloudService:
   customDefinedAutomationAdminRole: ""
 automationService:
   jenkinsOrGithubActions: gheactions
-  jenkinsWebhook: 223466@ere4
+  jenkinsWebhook: mywebhook.pl
 gheOrganisation:
   organisationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: true
-jira:
-  projectKey: "213"
-  projectName: new-jira
-  leadUsername: jarro06
-  documentationUrl: ""
-  adminToken: ""
+  sonarQube: false
