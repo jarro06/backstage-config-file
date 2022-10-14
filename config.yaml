@@ -14,12 +14,12 @@ jira:
 projectInformation:
   projectName: Mój super nowy projekt
   projectShortName: nowy_projekt1410
-  buildType: gradle
-  testInstance: true
-  preprodInstance: true
+  buildType: maven
+  testInstance: false
+  preprodInstance: false
   uatInstance: false
 cloudService:
-  awsOrAzure: ""
+  awsOrAzure: aks
   deploymentLocation: ""
   acpOrCRP: ""
   displayName: ""
@@ -51,10 +51,10 @@ cloudService:
   ingressSecurityGroupIds: ""
   customDefinedAutomationAdminRole: ""
 automationService:
-  jenkinsOrGithubActions: gheactions
+  jenkinsOrGithubActions: jenkins
   jenkinsWebhook: mywebhook.pl
 gheOrganisation:
   organisationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: false
+  sonarQube: true
