@@ -1,8 +1,8 @@
 generalInformation:
   serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  billingAccount: "3213"
-  billingTeamName: "3213"
+  billingAccount: ""
+  billingTeamName: ""
   gheToken: ""
   adpAccessToken: ""
 jira:
@@ -13,11 +13,11 @@ jira:
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: nowy_projekt1410
+  projectShortName: nowy_projekt
   buildType: maven
   testInstance: true
   preprodInstance: true
-  uatInstance: false
+  uatInstance: true
 cloudService:
   awsOrAzure: ""
   deploymentLocation: ""
