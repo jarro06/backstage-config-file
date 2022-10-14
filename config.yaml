@@ -1,22 +1,22 @@
 generalInformation:
   serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  billingAccount: "321"
-  billingTeamName: "321"
+  billingAccount: "3213"
+  billingTeamName: "3213"
   gheToken: ""
   adpAccessToken: ""
 jira:
   adminToken: ""
   projectKey: ""
   projectName: ""
-  leadUsername: jarro06
+  leadUsername: backstage-config-file
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: 1013test
-  buildType: gradle
-  testInstance: false
-  preprodInstance: false
+  projectShortName: nowy_projekt1410
+  buildType: maven
+  testInstance: true
+  preprodInstance: true
   uatInstance: false
 cloudService:
   awsOrAzure: ""
@@ -51,8 +51,8 @@ cloudService:
   ingressSecurityGroupIds: ""
   customDefinedAutomationAdminRole: ""
 automationService:
-  jenkinsOrGithubActions: gheactions
-  jenkinsWebhook: mywebhook.pl
+  jenkinsOrGithubActions: jenkins
+  jenkinsWebhook: ""
 gheOrganisation:
   organisationName: jarro06
   isNew: false
