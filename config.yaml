@@ -15,9 +15,9 @@ projectInformation:
   projectName: Mój super nowy projekt
   projectShortName: nowy_projekt1410
   buildType: maven
-  testInstance: false
-  preprodInstance: false
-  uatInstance: false
+  testInstance: true
+  preprodInstance: true
+  uatInstance: true
 cloudService:
   awsOrAzure: aks
   deploymentLocation: ""
