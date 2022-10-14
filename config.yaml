@@ -9,12 +9,12 @@ jira:
   adminToken: ""
   projectKey: ""
   projectName: ""
-  leadUsername: backstage-config-file
+  leadUsername: jarro06
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: nowy_projekt
-  buildType: maven
+  projectShortName: 1410someprojetc
+  buildType: gradle
   testInstance: true
   preprodInstance: true
   uatInstance: true
