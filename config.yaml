@@ -13,13 +13,13 @@ jira:
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: nowy_projekt1410435
-  buildType: maven
+  projectShortName: nowy_projekt1410
+  buildType: gradle
   testInstance: true
   preprodInstance: true
-  uatInstance: true
+  uatInstance: false
 cloudService:
-  awsOrAzure: aks
+  awsOrAzure: ""
   deploymentLocation: ""
   acpOrCRP: ""
   displayName: ""
@@ -52,7 +52,7 @@ cloudService:
   customDefinedAutomationAdminRole: ""
 automationService:
   jenkinsOrGithubActions: gheactions
-  jenkinsWebhook: ""
+  jenkinsWebhook: mywebhook.pl
 gheOrganisation:
   organisationName: jarro06
   isNew: false
