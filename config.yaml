@@ -12,12 +12,12 @@ jira:
   leadUsername: jarro06
   documentationUrl: ""
 projectInformation:
-  projectName: Mój super nowy projekt
+  projectName: Mój super nowy projekt123
   projectShortName: nowy_projekt1710
-  buildType: maven
-  testInstance: true
-  preprodInstance: true
-  uatInstance: false
+  buildType: gradle
+  testInstance: false
+  preprodInstance: false
+  uatInstance: true
 cloudService:
   awsOrAzure: ""
   deploymentLocation: ""
@@ -57,4 +57,4 @@ gheOrganisation:
   organisationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: true
+  sonarQube: false
