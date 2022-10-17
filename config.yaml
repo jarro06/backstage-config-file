@@ -15,8 +15,8 @@ projectInformation:
   projectName: Mój super nowy projekt123
   projectShortName: nowy_projekt1710
   buildType: gradle
-  testInstance: false
-  preprodInstance: false
+  testInstance: true
+  preprodInstance: true
   uatInstance: true
 cloudService:
   awsOrAzure: ""
@@ -51,10 +51,10 @@ cloudService:
   ingressSecurityGroupIds: ""
   customDefinedAutomationAdminRole: ""
 automationService:
-  jenkinsOrGithubActions: jenkins
+  jenkinsOrGithubActions: gheactions
   jenkinsWebhook: ""
 gheOrganisation:
   organisationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: false
+  sonarQube: true
