@@ -1,7 +1,7 @@
 generalInformation:
   serviceAdminEmail: jarro06@gmail.com
   gheUsername: jarro06
-  billingAccount: ""
+  billingAccount: "2131"
   billingTeamName: ""
   gheToken: ""
   adpAccessToken: ""
@@ -13,13 +13,13 @@ jira:
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: nowy_projekt1410
+  projectShortName: nowy_projekt1710
   buildType: maven
   testInstance: true
   preprodInstance: true
-  uatInstance: true
+  uatInstance: false
 cloudService:
-  awsOrAzure: aks
+  awsOrAzure: ""
   deploymentLocation: ""
   acpOrCRP: ""
   displayName: ""
@@ -52,7 +52,7 @@ cloudService:
   customDefinedAutomationAdminRole: ""
 automationService:
   jenkinsOrGithubActions: jenkins
-  jenkinsWebhook: mywebhook.pl
+  jenkinsWebhook: ""
 gheOrganisation:
   organisationName: jarro06
   isNew: false
