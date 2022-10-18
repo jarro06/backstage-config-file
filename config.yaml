@@ -15,9 +15,9 @@ projectInformation:
   projectName: Mój super nowy projekt
   projectShortName: 1810test
   buildType: maven
-  testInstance: true
-  preprodInstance: true
-  uatInstance: true
+  testInstance: false
+  preprodInstance: false
+  uatInstance: false
 cloudService:
   awsOrAzure: ""
   deploymentLocation: ""
