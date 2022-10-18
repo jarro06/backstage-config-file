@@ -17,7 +17,7 @@ projectInformation:
   buildType: maven
   testInstance: true
   preprodInstance: true
-  uatInstance: false
+  uatInstance: true
 cloudService:
   awsOrAzure: ""
   deploymentLocation: ""
