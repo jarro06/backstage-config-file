@@ -7,32 +7,32 @@ generalInformation:
   adpAccessToken: ""
 jira:
   adminToken: ""
-  projectKey: ""
-  projectName: ""
+  projectKey: "213"
+  projectName: new-jira
   leadUsername: backstage-config-file
   documentationUrl: ""
 projectInformation:
   projectName: Mój super nowy projekt
-  projectShortName: 1810test
+  projectShortName: 1810test43253645645
   buildType: maven
-  testInstance: false
-  preprodInstance: false
+  testInstance: true
+  preprodInstance: true
   uatInstance: false
 cloudService:
-  awsOrAzure: ""
-  deploymentLocation: ""
-  acpOrCRP: ""
-  displayName: ""
+  awsOrAzure: aks
+  deploymentLocation: azure_fc1
+  acpOrCRP: crp
+  displayName: AWS CLUSTER
   version: ""
   productionCluster: false
-  subscriptionId: ""
+  subscriptionId: "321321"
   enableStorageProvisioning: true
-  ingressSubnetName: ""
-  clusterSubnetName: ""
-  adAdminGroupName: ""
-  adViewerGroupName: ""
-  adEditorGroupName: ""
-  privateDnsZone: ""
+  ingressSubnetName: ingr
+  clusterSubnetName: clu
+  adAdminGroupName: admin
+  adViewerGroupName: viewer
+  adEditorGroupName: ediro
+  privateDnsZone: dns
   awsAccountId: ""
   instanceType: ""
   r53HostedZoneDomainName: ""
