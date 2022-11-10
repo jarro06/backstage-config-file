@@ -62,4 +62,4 @@ gheOrganization:
   organizationName: jarro06
   isNew: false
 testingTools:
-  sonarQube: false
+  sonarQube: true
